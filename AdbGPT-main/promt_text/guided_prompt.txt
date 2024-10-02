@@ -1,0 +1,15 @@
+Question:
+
+GUI screen:
+{}
+
+If I need to [Tap] ["Sign in"], which component id should I operate on the GUI? ->
+Answer: There is no explicit "Sign in" component in the current GUI screen. However, there is a semantic closest component "Log in" button. The id attribute of "Log in" component is 6. So, we could potentially operate on [id=6] in the screen.
+
+Question:
+
+GUI screen:
+{}
+
+If I need to [Tap] ["Settings"], which component id should I operate on the GUI? ->
+Answer: There is no explicit and semantic similar "Settings" component in the current GUI screen, so it appears a [MISSING] step. However, "Settings" could be related to the "drawer" button in the screen. The id attribute of "drawer" component is 0. So, we could potentially operate on [id=0] component in the screen.

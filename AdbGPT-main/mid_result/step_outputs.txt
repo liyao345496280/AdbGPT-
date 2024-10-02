@@ -1,0 +1,7 @@
+[Tap] ["AnkiDroid"]
+[Tap] ["+"]
+[Tap] ["Add card"]
+[Tap] ["attach"]
+[Tap] ["Add image"]
+[Tap] ["Camera"]
+[Tap] ["home"]

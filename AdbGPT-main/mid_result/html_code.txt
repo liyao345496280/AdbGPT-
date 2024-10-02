@@ -1,0 +1,150 @@
+[Tap] ["AnkiDroid"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <button id=5">Home</button>
+  <img id=6 class="search_icon" alt="" />
+  <p id=7 class="search_widget_text"></p>
+  <p id=8">AnkiDroid</p>
+  <p id=9">ASU_FlashCardApp</p>
+  <p id=10">Gallery</p>
+  <p id=11">F-Droid</p>
+  <p id=12">A Time Tracker</p>
+  <p id=13">Phone</p>
+  <p id=14">Messaging</p>
+  <p id=15">WebView Browser Tester</p>
+  <p id=16">Camera</p>
+  <img id=17 class="back" alt="Back" />
+  <img id=18 class="home" alt="Home" />
+  <img id=19 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["+"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <button id=5">Navigate up</button>
+  <p id=6">AnkiDroid</p>
+  <p id=7 class="action_sync">Synchronization</p>
+  <img id=8 alt="More options" />
+  <p id=9">0 cards due (0 min)</p>
+  <p id=10 class="deckpicker_name">Default</p>
+  <p id=11 class="deckpicker_new">0</p>
+  <p id=12 class="deckpicker_lrn">0</p>
+  <p id=13 class="deckpicker_rev">0</p>
+  <button id=14 class="fab_expand_menu_button">Add</button>
+  <p id=15 class="today_stats_text_view">Studied 0 cards in 0 minutes today</p>
+  <img id=16 class="back" alt="Back" />
+  <img id=17 class="home" alt="Home" />
+  <img id=18 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["Add card"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <button id=5">Navigate up</button>
+  <p id=6">AnkiDroid</p>
+  <p id=7 class="action_sync">Synchronization</p>
+  <img id=8 alt="More options" />
+  <p id=9">0 cards due (0 min)</p>
+  <p id=10 class="deckpicker_name">Default</p>
+  <p id=11 class="deckpicker_new">0</p>
+  <p id=12 class="deckpicker_lrn">0</p>
+  <p id=13 class="deckpicker_rev">0</p>
+  <button id=14 class="add_deck_action">Create deck</button>
+  <p id=15">Create deck</p>
+  <button id=16 class="add_shared_action">Get shared decks</button>
+  <p id=17">Get shared decks</p>
+  <button id=18 class="add_note_action">Add</button>
+  <p id=19">Add</p>
+  <button id=20 class="fab_expand_menu_button">Add</button>
+  <p id=21 class="today_stats_text_view">Studied 0 cards in 0 minutes today</p>
+  <img id=22 class="back" alt="Back" />
+  <img id=23 class="home" alt="Home" />
+  <img id=24 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["attach"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <button id=5">Navigate up</button>
+  <p id=6 class="action_save">Save</p>
+  <p id=7">Add note</p>
+  <p id=8 class="text1">Basic</p>
+  <p id=9 class="CardEditorModelText">Type:</p>
+  <p id=10 class="text1">Default</p>
+  <p id=11 class="CardEditorDeckText">Deck:</p>
+  <p id=12">Front</p>
+  <input id=13 class="id_note_editText">Front</input>
+  <button id=14 class="id_media_button">Attach multimedia content to the Front field</button>
+  <p id=15">Back</p>
+  <input id=16 class="id_note_editText">Back</input>
+  <button id=17 class="id_media_button">Attach multimedia content to the Back field</button>
+  <p id=18 class="CardEditorTagText">Tags:</p>
+  <p id=19 class="CardEditorCardsText">Cards: Card 1</p>
+  <img id=20 class="back" alt="Back" />
+  <img id=21 class="home" alt="Home" />
+  <img id=22 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["Add image"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <p id=5 class="title">Add image</p>
+  <p id=6 class="title">Record audio</p>
+  <p id=7 class="title">Advanced editor</p>
+  <p id=8 class="title">Cloze deletion</p>
+  <img id=9 class="back" alt="Back" />
+  <img id=10 class="home" alt="Home" />
+  <img id=11 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["Camera"]:
+<html>
+  <p id=0 class="clock">1:18</p>
+  <img id=1 alt="Android System notification: AndroidWifi has limited connectivity" />
+  <button id=2 class="battery">Battery charging, 100 percent.</button>
+  <button id=3 class="wifi_combo">Wifi signal full.,No internet</button>
+  <button id=4 class="mobile_combo">Phone signal full.</button>
+  <button id=5">Navigate up</button>
+  <p id=6 class="multimedia_edit_field_to_text">Text</p>
+  <p id=7 class="multimedia_edit_field_to_audio">Audio</p>
+  <p id=8 class="multimedia_edit_field_done">Done</p>
+  <p id=9">Editing field</p>
+  <button id=10">GALLERY</button>
+  <button id=11">CAMERA</button>
+  <img id=12 class="back" alt="Back" />
+  <img id=13 class="home" alt="Home" />
+  <img id=14 class="recent_apps" alt="Overview" />
+</html>
+
+[Tap] ["home"]:
+<html>
+  <button id=0 class="preview_overlay"></button>
+  <button id=1 class="status_bar"></button>
+  <button id=2 class="privacy_chip">Applications are using your camera.</button>
+  <img id=3 class="three_dots" alt="Options" />
+  <img id=4 class="shutter_button" alt="Shutter" />
+  <img id=5 class="back" alt="Back" />
+  <img id=6 class="home" alt="Home" />
+  <img id=7 class="recent_apps" alt="Overview" />
+</html>
+

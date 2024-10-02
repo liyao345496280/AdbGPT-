@@ -1,0 +1,12 @@
+GPT生成的回答是一段话，类似于的prompt中的CoT部分。因此需要从这段话中进行处理，得到最后简单规整的结果。
+
+
+
+1.使用 uiautomator2 的 dump_hierarchy 方法获取当前屏幕的 UI 结构，以压缩和可读的格式返回 XML 格式的页面源。
+2.调用 ADB 工具进行屏幕截图，并将其保存到指定路径。
+3.view_hierarchy_leaf_nodes  包含所有可交互的 UI 元素的列表。每个列表表示一个可交互元素以及它的属性（XML信息，当前界面的大小，元素的坐标）
+4.bbox = _build_bounding_box(element.get('bounds'))获得GUI元素的坐标。
+5.根据GUI元素坐标对其排序。
+6.这行代码的意思是，如果 _text 也是空字符串，则使用 _content_desc 替代；否则，保持原来的 _text。
+7.recursive_flag 指是否需要继续进行推理，即MISSING。
+8.parse_identifier_outputs()就是将得到的响应文本进行处理，输出结果需要的部分。
