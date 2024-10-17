@@ -3,7 +3,7 @@ from __future__ import division
 from __future__ import print_function
 
 # CHATGPT CONFIGURATIONS
-OPENAI_TOKEN = "sk-rzhHHcO8i9ISjdqVHnOg8Iq5Zy8RdhjYUNM5J4uhZ5I1u0Qh"
+OPENAI_TOKEN = " "
 MODEL = "gpt-3.5-turbo"
 TEMPERATURE = 0.2
 # MAX_TOKENS = 1000
